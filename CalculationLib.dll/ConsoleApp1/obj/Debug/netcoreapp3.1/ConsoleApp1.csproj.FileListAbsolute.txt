@@ -1,0 +1,16 @@
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\ConsoleApp1\bin\Debug\netcoreapp3.1\CalculationLib.dll.dll
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\ConsoleApp1\bin\Debug\netcoreapp3.1\CalculationLib.dll.pdb
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

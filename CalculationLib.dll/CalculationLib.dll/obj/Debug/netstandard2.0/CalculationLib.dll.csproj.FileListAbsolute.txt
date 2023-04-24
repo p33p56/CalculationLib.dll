@@ -1,0 +1,9 @@
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\CalculationLib.dll\bin\Debug\netstandard2.0\CalculationLib.dll.deps.json
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\CalculationLib.dll\bin\Debug\netstandard2.0\CalculationLib.dll.pdb
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\CalculationLib.dll\obj\Debug\netstandard2.0\CalculationLib.dll.csprojAssemblyReference.cache
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\CalculationLib.dll\obj\Debug\netstandard2.0\CalculationLib.dll.AssemblyInfoInputs.cache
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\CalculationLib.dll\obj\Debug\netstandard2.0\CalculationLib.dll.AssemblyInfo.cs
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\CalculationLib.dll\obj\Debug\netstandard2.0\CalculationLib.dll.csproj.CoreCompileInputs.cache
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\CalculationLib.dll\obj\Debug\netstandard2.0\CalculationLib.dll.dll
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\CalculationLib.dll\obj\Debug\netstandard2.0\CalculationLib.dll.pdb
+D:\Users\buludov.ei1624\source\repos\CalculationLib.dll\CalculationLib.dll\obj\Debug\netstandard2.0\CalculationLib.dll.csproj.CopyComplete
